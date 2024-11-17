@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sms_Receiver_App</string>
+    <string name="sms_placeholder">Your SMS here</string>
+</resources>
